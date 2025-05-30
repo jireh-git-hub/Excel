@@ -1,8 +1,0 @@
-Data Cleaning
-1. Remove duplicates
-2. Update data of Marital Status and Gender
-3. Update Income format to Currency
-4. Create column for Age Brackets
-5. Input data using IF statements in Age Brackets
-6. Create Pivot Table
-7. Create Dashboard
