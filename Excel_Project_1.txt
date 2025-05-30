@@ -1,0 +1,8 @@
+Data Cleaning
+1. Remove duplicates
+2. Use PROPER function in Name column
+3. Create Age Brackets column
+4. Input data using IF statements in Age Brackets 
+5. Use ROUND function in Billing column
+6. Create Pivot Table
+7. Create Dashboard
